@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-Performance-Dispatcher-vs-UniRxObserver.Plugins", "Unity-Performance-Dispatcher-vs-UniRxObserver.Plugins.csproj", "{265ACC54-2450-50CE-26D4-1440B7061BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-Performance-Dispatcher-vs-UniRxObserver", "Unity-Performance-Dispatcher-vs-UniRxObserver.csproj", "{520185A6-2CE7-14A0-94FE-B44B40C708BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265ACC54-2450-50CE-26D4-1440B7061BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265ACC54-2450-50CE-26D4-1440B7061BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265ACC54-2450-50CE-26D4-1440B7061BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265ACC54-2450-50CE-26D4-1440B7061BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520185A6-2CE7-14A0-94FE-B44B40C708BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520185A6-2CE7-14A0-94FE-B44B40C708BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520185A6-2CE7-14A0-94FE-B44B40C708BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520185A6-2CE7-14A0-94FE-B44B40C708BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
